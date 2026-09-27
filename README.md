@@ -16,7 +16,7 @@ investigation, and troubleshooting.
 
 | Lab | Focus | Documentation Status |
 | --- | --- | --- |
-| Ubuntu and VirtualBox | VM setup, snapshots, and recovery | To document |
+| [Ubuntu and VirtualBox](labs/01-ubuntu-lab-setup.md) | VM configuration, OS version, and architecture verification | Documented |
 | Network troubleshooting | Packet Tracer connectivity exercises | Planned |
 | Traffic analysis | DNS and other lab traffic in Wireshark | Planned |
 | Linux permissions | Users, groups, and access controls | Planned |
@@ -47,4 +47,5 @@ and private information.
 
 ## Current Progress
 
-Repository created. First lab write-up is in preparation.
+Documented my Ubuntu VM configuration and verified Ubuntu 26.04 LTS
+and ARM 64-bit architecture. Next: basic network connectivity checks.
