@@ -52,11 +52,21 @@ Both commands read system information without changing settings.
 
 ## Evidence
 
-Screenshots to upload:
-- 01-virtualbox-configuration.png
-- 02-ubuntu-version.png
+### VirtualBox Configuration
 
-Architecture result recorded from terminal: `aarch64`.
+The VM has 4096 MB of memory, 2 virtual processors,
+a 30 GB virtual disk, and NAT networking.
+
+![VirtualBox configuration](01-virtualbox-configuration.png)
+
+### Ubuntu Version
+
+Terminal output confirms Ubuntu 26.04 LTS.
+
+![Ubuntu version output](02-ubuntu-version.png)
+
+The command `uname -m` returned `aarch64`, confirming
+ARM 64-bit architecture.
 
 ## Lessons Learned
 
