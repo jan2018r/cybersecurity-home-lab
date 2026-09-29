@@ -28,7 +28,7 @@ I checked each part of the connection in order: local address, route, gateway, e
 
 ### Address and route
 
-![Ubuntu network address and route](03-network-address-and-route.png)
+![Ubuntu network address and route](03-network-addres-and-route.png)
 
 ### Gateway test
 
