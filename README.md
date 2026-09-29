@@ -16,7 +16,7 @@ investigation, and troubleshooting.
 
 | Lab | Focus | Documentation Status |
 | --- | --- | --- |
-| [Ubuntu and VirtualBox](labs/01-ubuntu-lab-setup.md) | VM configuration, OS version, and architecture verification | Documented |
+| [Ubuntu network connectivity](labs/02-network-connectivity.md) | Address, route, gateway, external IP, DNS, and HTTPS verification | Documented |
 | Network troubleshooting | Packet Tracer connectivity exercises | Planned |
 | Traffic analysis | DNS and other lab traffic in Wireshark | Planned |
 | Linux permissions | Users, groups, and access controls | Planned |
