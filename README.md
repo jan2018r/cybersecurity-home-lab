@@ -16,6 +16,7 @@ investigation, and troubleshooting.
 
 | Lab | Focus | Documentation Status |
 | --- | --- | --- |
+| [Ubuntu lab setup](labs/01-ubuntu-lab-setup.md) | VirtualBox configuration and Ubuntu version verification | Documented |
 | [Ubuntu network connectivity](labs/02-network-connectivity.md) | Address, route, gateway, external IP, DNS, and HTTPS verification | Documented |
 | [Linux users and file permissions](labs/03-linux-file-permissions.md) | Ownership, permission changes, denied write access, and recovery | Documented |
 | Network troubleshooting | Packet Tracer connectivity exercises | Planned |
