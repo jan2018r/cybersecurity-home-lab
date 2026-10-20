@@ -76,3 +76,17 @@ I enjoyed every part of this lab, including learning from my mistakes. It showed
 - Monitoring CPU and memory usage with `top`
 - Identifying and terminating my own practice job
 - Reading errors and correcting command syntax
+
+- ## Screenshot Evidence
+
+### Lab folder and username
+![Lab folder and username](lab04-01-folder-and-user.png)
+
+### Background process
+![Background process](lab04-02-background-process.png)
+
+### Live process monitoring
+![Live process monitoring](lab04-03-live-process-monitor.png)
+
+### Stopping the practice process
+![Stopping the practice process](lab04-04-stop-practice-process.png)
