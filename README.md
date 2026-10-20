@@ -19,6 +19,7 @@ investigation, and troubleshooting.
 | [Ubuntu lab setup](labs/01-ubuntu-lab-setup.md) | VirtualBox configuration and Ubuntu version verification | Documented |
 | [Ubuntu network connectivity](labs/02-network-connectivity.md) | Address, route, gateway, external IP, DNS, and HTTPS verification | Documented |
 | [Linux users and file permissions](labs/03-linux-file-permissions.md) | Ownership, permission changes, denied write access, and recovery | Documented |
+| [Linux processes and system monitoring](labs/04-linux-processes.md) | Process IDs, background jobs, CPU and memory monitoring, and safe process termination | Documented |
 | Network troubleshooting | Packet Tracer connectivity exercises | Planned |
 | Traffic analysis | DNS and other lab traffic in Wireshark | Planned |
 | Linux permissions | Users, groups, and access controls | Planned |
